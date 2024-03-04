@@ -25,11 +25,11 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 ## Inhoudsopgave
 
-Hoofdstuk 1 basis: Teams installeren
+[Hoofdstuk 1 basis: Teams installeren](#hoofdstuk-1-basis-teams-installeren)
 
-Hoofdstuk 2 basis: Apps binnen Teams installeren
+[Hoofdstuk 2 basis: Apps binnen Teams installeren](#hoofdstuk-2-basis-apps-binnen-teams-installeren)
 
-Hoofdstuk 3 basis: Leren werken met de MS project applicatie 
+[Hoofdstuk 3 basis: Leren werken met de MS project applicatie](#hoofdstuk-3-basis-leren-werken-met-de-ms-project-applicatie)
 
 <br><br><br><br><br><br><br><br><br><br>
 
