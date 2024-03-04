@@ -167,7 +167,13 @@ Hiervan is "Rooster" / "Grid" al open.
 
 <br><br><br><br>
 
-# Hoofdstuk 3.1 basis: "Rooster" / "Grid" leren:
+
+
+
+
+
+
+### Hoofdstuk 3.1 basis: Het "Rooster" / "Grid" leren:
 
 <br><br>
 
@@ -209,6 +215,94 @@ en de datum wanneer het klaar was kan invullen.
 
 ![alt text](image-15.png)
 
+<br><br><br><br>
+
+En links onderaan kan je projecten aan maken door op de plus icoon of de zin "Nieuwe taak toevoegen" / "Add new task" te klikken.
+
+Veder moet je alleen de naam alvast invullen om te zorgen dat de nieuwe project blijft staan.
+
+![alt text](image-16.png)
+
+<br><br><br><br>
+
+
+
+
+
+
+
+### Hoofdstuk 3.2 basis: Het "Board" leren:
+
+<br><br>
+
+Het board is meer eenvoudig je organiseert via emmers / buckets.
+
+Deze lijken erg op Werklasten, je kan de emmers / buckets verdelen op wat handig is zoals:
+
+Deadlines, 
+
+samenhangende project doelen,
+
+kleinere taken van een project,
+
+of zelfs gebaseerd op wie de klant is.
+
+<br><br><br><br>
+
+Net zoals bij "Rooster" / "Grid" kan je projecten/taken toevoegen.
+
+Maar je kan ook emmers / buckets toevoegen om meer te kunnen sorteren dus de emmers/buckets.
+
+Bij beide moet je een naam toevoegen om projecten/taken/emmers te kunnen aanmaken.
+
+![alt text](image-17.png)
+
+<br><br><br><br>
+
+
+
+
+
+
+
+### Hoofdstuk 3.3 basis: De "Grafieken" / "Charts" leren:
+
+<br><br>
+
+"Grafieken" / "Charts" zijn ook redelijk simpel.
+
+Gebaseerd op de progressie van Het "Rooster" / "Grid" kan je hier de visuals zien van hoeveel werk af is en door wie het meeste af is.
+
+Dit onderdeel heeft geen input dus je kan er alleen naar kijken voor feedback.
+
+![alt text](image-18.png)
+
 <br><br><br><br><br><br><br><br><br><br>
 
+
+
+
+
+
+
 ## Hoofdstuk 4 basis: Leren werken met de Roadmap applicatie:
+
+<br><br>
+
+De "Roadmap app" werkt als een soort kalender voor de tijds duur van projecten.
+
+De horizontale zijde weergeeft de tijds duur in dagen van links naar rechts.
+
+De verticale kant weergeeft het aantal projecten.
+
+De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke projecten wanneer bezig zijn en welke projecten overlappen in tijd.
+
+Ik kan er nu persoonlijk niet in werken omdat ik geen toegang heb, maar je kan zien dat je links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
+
+![alt text](image-19.png)
+
+<br><br><br><br>
+
+Hier is een voorbeeld van hoe een Roadmap er uit kan zien als hij af is: 
+
+![alt text](image-20.png)
