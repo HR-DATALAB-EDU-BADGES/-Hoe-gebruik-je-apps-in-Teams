@@ -247,6 +247,8 @@ kleinere taken van een project,
 
 of zelfs gebaseerd op wie de klant is.
 
+<br><br>
+
 Net zoals bij "Rooster" / "Grid" kan je projecten/taken toevoegen.
 
 Maar je kan ook emmers / buckets toevoegen om meer te kunnen sorteren dus de emmers/buckets.
