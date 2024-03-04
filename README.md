@@ -29,7 +29,7 @@ Hoofdstuk 1 basis: Teams installeren:
 
 Hoofdstuk 2 basis: Apps van toepassing installeren:
 
-Hoofdstuk 3 basis: Apps toepassen:
+Hoofdstuk 3 basis: App kennis leren:
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -109,7 +109,9 @@ In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij project:
 
 <br><br><br><br>
 
-Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gekozen kanaal in dit geval "HR Datalab Healthcare" als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal:
+Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gekozen kanaal in dit geval "HR Datalab Healthcare" 
+
+Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal:
 
 ![alt text](image-7.png)
 
@@ -138,4 +140,20 @@ Om nu terug te gaan naar "generaal" / "general" kan je links boven aan op de pij
 
 
 
-## Hoofdstuk 3 basis: Apps toepassen
+## Hoofdstuk 3 basis: App kennis leren
+
+<br><br>
+
+Je kan deze video bekijken op YouTube over de "Projecten app" / "Project app", maar de video is wel Engels: https://www.youtube.com/watch?v=evIBUXqeRhQ 
+
+<br><br>
+
+Voor degenen die geen Engels kunnen zal ik de belangrijkste punten uitleggen.
+
+<br><br>
+
+Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" kan je drie opties bovenaan zien "Rooster" / "Grid", "Board", "Grafieken" / "Charts" 
+
+Hiervan is "Rooster" / "Grid" al open.
+
+![alt text](image-12.png)
