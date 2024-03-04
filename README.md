@@ -152,7 +152,13 @@ Voor degenen die geen Engels kunnen zal ik de belangrijkste punten uitleggen.
 
 <br><br>
 
-Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" kan je drie opties bovenaan zien "Rooster" / "Grid", "Board", "Grafieken" / "Charts" 
+Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" kan je drie opties bovenaan zien: 
+
+"Rooster" / "Grid",
+
+"Board", 
+ 
+"Grafieken" / "Charts" 
 
 Hiervan is "Rooster" / "Grid" al open.
 
