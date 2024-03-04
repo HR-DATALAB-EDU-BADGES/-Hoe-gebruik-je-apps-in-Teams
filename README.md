@@ -27,7 +27,9 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 Hoofdstuk 1 basis: Teams installeren:
 
-Hoofdstuk 2 basis: apps van toepassing installeren:
+Hoofdstuk 2 basis: Apps van toepassing installeren:
+
+Hoofdstuk 3 basis: Apps toepassen:
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -57,7 +59,7 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 
 
-## Hoofdstuk 2 basis: apps van toepassing installeren
+## Hoofdstuk 2 basis: Apps van toepassing installeren
 
 <br><br>
 
@@ -70,6 +72,16 @@ Als gesloten open de app via jouw desktop snelkoppeling of anders type "Microsof
 Maak zeker dat je juist ingelogd bent rechtsboven in de app:
 
 ![alt text](image-2.png)
+
+<br><br><br><br>
+
+Als het al geïnstalleerd is op de juiste kanaal kan je de apps zien bij "Generaal" / "General" en dan rechts boven.
+
+Als er te veel opties/apps boven aan staan krijg je een plus icoon rechts boven, klik hier op om alle overige opties/apps te zien in dit geval zie je de "Roadmap"
+
+Als jij de apps "project Algemeen" en "Roadmap algemeen" niet ziet staan volg dan de rest van stap twee, anders skip naar de stap drie.
+
+![alt text](image-11.png)
 
 <br><br><br><br>
 
@@ -112,3 +124,18 @@ Terug bij "Meer apps downloaden" / "Get more apps" scrollen we nu naar beneden t
 En zoals bij de vorige app doe het zelfde voor de Roadmap app:
 
 ![alt text](image-9.png)
+
+<br><br><br><br>
+
+Om nu terug te gaan naar "generaal" / "general" kan je links boven aan op de pijl naar links klikken en vervolgens linksboven op "generaal" / "general"
+
+![alt text](image-10.png)
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+## Hoofdstuk 3 basis: Apps toepassen
