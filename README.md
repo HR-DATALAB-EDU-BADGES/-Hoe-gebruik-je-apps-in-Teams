@@ -149,7 +149,7 @@ Je kan deze video bekijken op YouTube over de "Projecten app" / "Project app", m
 
 <br><br>
 
-Voor degenen die geen Engels kunnen zal ik de belangrijkste punten uitleggen.
+Ik ga nu zelf ook nog over de functies en navigatie.
 
 <br><br>
 
@@ -177,19 +177,37 @@ Het doel van de "Rooster" / "Grid" is om de status van projecten overzichtelijk 
 
 Links boven aan zie je dat projecten in het "Rooster" / "Grid"
 
-dat je projecten kan aan maken met zelf gekozen namen,
+Je navigeert deze grid door op juiste kolom te zitten van de juiste project verticaal en de juiste categorie die je wilt aanpassen horizontaal.
 
-dat de projecten Genummerd zijn,
+Je ziet hier dat de projecten namen hebben,
 
-en dat je ze bij de circle kan afvinken als ze klaar zijn:
+Dat de projecten verticaal Genummerd zijn van laag naar hoog,
+
+En dat je met klikken ze bij de circle kan afvinken als ze klaar zijn:
 
 ![alt text](image-13.png)
 
 <br><br><br><br>
 
-Bovenaan in het midden zie je dat je "Korte kijk" "Short look" 
+Bovenaan in het midden zie je dat je "Korte kijk" "Short look" en "Toegewezen" / "assigned"
 
+Bij "Korte kijk" / "Short look" kan je zien of er bestanden zijn toegevoegd aan het project.
 
+Je kan bij Toegewezen" / "assigned" kijken wie welke taak gegeven is, en als je over het project zweeft met je muis zie je een persoon icoon waar je kan op klikken om mensen zelf toetenvoegen. 
+
+![alt text](image-14.png)
+
+<br><br><br><br>
+
+Rechtsboven zie je dat je:
+
+De Duratie per project kan bepalen, 
+
+de start datum kan bepalen, 
+
+en de datum wanneer het klaar was kan invullen.
+
+![alt text](image-15.png)
 
 <br><br><br><br><br><br><br><br><br><br>
 
