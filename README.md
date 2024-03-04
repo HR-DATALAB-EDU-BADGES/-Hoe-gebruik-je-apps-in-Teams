@@ -29,7 +29,9 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 [Hoofdstuk 2 basis: Apps binnen Teams installeren](#hoofdstuk-2-basis-apps-binnen-teams-installeren)
 
-[Hoofdstuk 3 basis: Leren werken met de MS project applicatie](#hoofdstuk-3-basis-leren-werken-met-de-ms-project-applicatie)
+[Hoofdstuk 3 basis: Leren werken met de Project applicatie](#hoofdstuk-3-basis-leren-werken-met-de-project-applicatie)
+
+[Hoofdstuk 4 basis: Leren werken met de Roadmap applicatie](#hoofdstuk-4-basis-leren-werken-met-de-roadmap-applicatie)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -59,7 +61,7 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 
 
-## Hoofdstuk 2 basis: Apps binnen Teams installeren
+## Hoofdstuk 2 basis: Apps binnen Teams installeren:
 <br><br>
 
 Als gesloten open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
@@ -139,7 +141,7 @@ Om nu terug te gaan naar "generaal" / "general" kan je links boven aan op de pij
 
 
 
-## Hoofdstuk 3 basis: Leren werken met de MS project applicatie 
+## Hoofdstuk 3 basis: Leren werken met de project applicatie:
 
 <br><br>
 
@@ -165,7 +167,7 @@ Hiervan is "Rooster" / "Grid" al open.
 
 <br><br><br><br>
 
-# Hoofdstuk 3.1 basis: "Rooster" / "Grid" leren
+# Hoofdstuk 3.1 basis: "Rooster" / "Grid" leren:
 
 <br><br>
 
@@ -185,4 +187,10 @@ en dat je ze bij de circle kan afvinken als ze klaar zijn:
 
 <br><br><br><br>
 
-Bovenaan in het midden zie je dat je "Korte kijk" "Short look"
+Bovenaan in het midden zie je dat je "Korte kijk" "Short look" 
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
+## Hoofdstuk 4 basis: Leren werken met de Roadmap applicatie:
