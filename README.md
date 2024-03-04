@@ -1,4 +1,4 @@
-# Hoe-gebruik-je-team-apps
+# Hoe-gebruik-je-apps-in-Teams
 
 Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
@@ -25,11 +25,11 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 ## Inhoudsopgave
 
-Hoofdstuk 1 basis: Teams installeren:
+Hoofdstuk 1 basis: Teams installeren
 
-Hoofdstuk 2 basis: Apps van toepassing installeren:
+Hoofdstuk 2 basis: Apps binnen Teams installeren
 
-Hoofdstuk 3 basis: App kennis leren:
+Hoofdstuk 3 basis: Leren werken met de MS project applicatie 
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -59,8 +59,7 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 
 
-## Hoofdstuk 2 basis: Apps van toepassing installeren
-
+## Hoofdstuk 2 basis: Apps binnen Teams installeren
 <br><br>
 
 Als gesloten open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
@@ -140,7 +139,7 @@ Om nu terug te gaan naar "generaal" / "general" kan je links boven aan op de pij
 
 
 
-## Hoofdstuk 3 basis: App kennis leren
+## Hoofdstuk 3 basis: Leren werken met de MS project applicatie 
 
 <br><br>
 
@@ -163,3 +162,27 @@ Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" ka
 Hiervan is "Rooster" / "Grid" al open.
 
 ![alt text](image-12.png)
+
+<br><br><br><br>
+
+# Hoofdstuk 3.1 basis: "Rooster" / "Grid" leren
+
+<br><br>
+
+Het doel van de "Rooster" / "Grid" is om de status van projecten overzichtelijk te maken en makkelijk te kunnen veranderen.
+
+<br><br>
+
+Links boven aan zie je dat projecten in het "Rooster" / "Grid"
+
+dat je projecten kan aan maken met zelf gekozen namen,
+
+dat de projecten Genummerd zijn,
+
+en dat je ze bij de circle kan afvinken als ze klaar zijn:
+
+![alt text](image-13.png)
+
+<br><br><br><br>
+
+Bovenaan in het midden zie je dat je "Korte kijk" "Short look"
