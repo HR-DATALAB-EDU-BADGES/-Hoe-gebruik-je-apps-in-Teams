@@ -27,13 +27,26 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 [Hoofdstuk 1 basis: Teams installeren](#hoofdstuk-1-basis-teams-installeren)
 
+<br>
+
 [Hoofdstuk 2 basis: Teams configure](#hoofdstuk-2-basis-teams-configure)
+
+<br>
 
 [Hoofdstuk 3 basis: Project app installeren](#hoofdstuk-3-basis-project-app-installeren)
 
+<br>
+
 [Hoofdstuk 4 basis: Roadmap app installeren](#hoofdstuk-4-basis-roadmap-app-installeren)
 
+<br>
+
 [Hoofdstuk 5 basis: Leren werken met de project applicatie](#hoofdstuk-5-basis-leren-werken-met-de-project-applicatie)
+- [Hoofdstuk 5.1 basis: Het "Rooster" / "Grid" leren](#hoofdstuk-51-basis-het-rooster--grid-leren)
+- [Hoofdstuk 5.2 basis: Het "Board" leren](#hoofdstuk-52-basis-het-board-leren)
+- [Hoofdstuk 5.3 basis: De "Grafieken" / "Charts" leren](#hoofdstuk-53-basis-de-grafieken--charts-leren)
+
+<br>
 
 [Hoofdstuk 6 basis: Leren werken met de Roadmap applicatie](#hoofdstuk-6-basis-leren-werken-met-de-roadmap-applicatie)
 
