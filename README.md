@@ -68,6 +68,33 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 ![alt text](image.png)
 
+<br><br><br><br>
+
+Bij de nieuwe tab die opent krijg je twee opties kies rechts onder "Teams for work or school" klik op "Download the new Teams app" en zodra het vraagt welke versie ga voor (64-bit)
+
+![alt text](image-23.png)
+
+<br><br><br><br>
+
+Zodra de set-up geïnstalleerd is kan je onderaan op je "Bestandsverkenner" / "File explorer" klikken:
+
+![alt text](image-24.png)
+
+<br><br><br><br>
+
+Nu dat deze open is kan je op downloads klikken:
+
+![alt text](image-25.png)
+
+<br><br><br><br>
+
+En nu double klik je op de set-up file bovenaan bij je downloads:
+
+![alt text](image-26.png)
+
+<br><br><br><br>
+
+Veder volg de stappen zoals aangeven door Teams en ga met default settings.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -92,13 +119,19 @@ Als Teams gesloten is open de app via jouw desktop snelkoppeling of anders type 
 
 <br><br><br><br>
 
+Als je Account er niet niet boven staat wanneer je de app opent moet je die ben
+
+![alt text](image-22.png)
+
+<br><br><br><br>
+
 Maak zeker dat je juist ingelogd bent rechtsboven in de app:
 
 ![alt text](image-2.png)
 
 <br><br><br><br>
 
-En dat je toegang hebt tot de juiste kanalen links boven:
+Zorg dat je toegang hebt tot de juiste kanalen links boven:
 
 ![alt text](image-21.png)
 
