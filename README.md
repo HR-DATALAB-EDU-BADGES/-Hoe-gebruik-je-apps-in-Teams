@@ -289,6 +289,8 @@ Dit onderdeel heeft geen input dus je kan er alleen naar kijken voor feedback.
 
 <br><br>
 
+Je kan deze video bekijken op YouTube over de  "Stappenplan app" / "roadmap app" , maar de video is wel Engels: https://youtu.be/kC1oZj0nOsc?si=Hf6vcI4wTj4osW1L 
+
 De "Roadmap app" werkt als een soort kalender voor de tijds duur van projecten.
 
 De horizontale zijde weergeeft de tijds duur in dagen van links naar rechts.
