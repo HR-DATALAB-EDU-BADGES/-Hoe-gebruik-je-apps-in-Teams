@@ -18,11 +18,11 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 <br><br>
 
 ### Project app:
-De "Projecten" / "Project" app is bedoelt voor team beheerring je kan hier makkelijk taken aan maken, deze taken verdelen, en de progressie overzichtelijk kunnen bekijken
+De "Projecten app" / "Project app" is bedoelt voor team beheerring je kan hier makkelijk taken aan maken, deze taken verdelen, en de progressie overzichtelijk kunnen bekijken.
 
 
 ### Roadmap app:
-De 
+De "Stappenplan app" / "Roadmap app" is bedoelt voor het weergeven van een duidelijk beeld voor welke projecten wanneer bezig zijn en welke projecten overlappen in tijd.
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -69,8 +69,6 @@ Volg de link en click op "Download de app voor desktop" / "Download app for desk
 De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEARCH_Bing&lc=1033
 
 ![alt text](image.png)
-
-<br><br><br><br>
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -378,7 +376,7 @@ Dit onderdeel heeft geen input dus je kan er alleen naar kijken voor feedback.
 
 <br><br>
 
-Je kan deze video bekijken op YouTube over de  "Stappenplan app" / "roadmap app" , maar de video is wel Engels: https://youtu.be/kC1oZj0nOsc?si=Hf6vcI4wTj4osW1L 
+Je kan deze video bekijken op YouTube over de  "Stappenplan app" / "Roadmap app", maar de video is wel Engels: https://youtu.be/kC1oZj0nOsc?si=Hf6vcI4wTj4osW1L 
 
 <br><br>
 
