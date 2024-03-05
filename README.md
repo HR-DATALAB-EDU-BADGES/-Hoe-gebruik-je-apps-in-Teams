@@ -15,8 +15,6 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 ### Waarom deze apps installeren?
 
-<br><br>
-
 ### Project app:
 De "Projecten app" / "Project app" is bedoelt voor team beheerring je kan hier makkelijk taken aan maken, deze taken verdelen, en de progressie overzichtelijk kunnen bekijken.
 
