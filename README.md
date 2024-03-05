@@ -20,7 +20,7 @@ De "Projecten app" / "Project app" is bedoelt voor team beheerring je kan hier m
 
 
 ### Roadmap app:
-De "Stappenplan app" / "Roadmap app" is bedoelt voor het weergeven van een duidelijk beeld voor welke projecten wanneer bezig zijn en welke projecten overlappen in tijd.
+De "Stappenplan app" / "Roadmap app" is bedoelt voor het weergeven van een duidelijk beeld voor welke projecten wanneer bezig zijn en welke projecten overlappen qua tijd in de vorm van datums.
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -380,15 +380,13 @@ Je kan deze video bekijken op YouTube over de  "Stappenplan app" / "Roadmap app"
 
 Ik ga nu zelf ook nog uitleggen over de functies en navigatie.
 
-<br><br>
-
 De "Roadmap app" werkt als een soort kalender voor de tijds duur van projecten.
 
 De horizontale zijde weergeeft de tijds duur in dagen van links naar rechts.
 
 De verticale kant weergeeft het aantal projecten.
 
-De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke projecten wanneer bezig zijn en welke projecten overlappen in tijd.
+De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke projecten wanneer bezig zijn en welke projecten overlappen qua tijd in de vorm van datums.
 
 Ik kan er nu persoonlijk niet in werken omdat ik geen toegang heb, maar je kan zien dat je links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
 
