@@ -149,7 +149,7 @@ Je kan deze video bekijken op YouTube over de "Projecten app" / "Project app", m
 
 <br><br>
 
-Ik ga nu zelf ook nog over de functies en navigatie.
+Ik ga nu zelf ook nog uitleggen over de functies en navigatie.
 
 <br><br>
 
@@ -290,6 +290,12 @@ Dit onderdeel heeft geen input dus je kan er alleen naar kijken voor feedback.
 <br><br>
 
 Je kan deze video bekijken op YouTube over de  "Stappenplan app" / "roadmap app" , maar de video is wel Engels: https://youtu.be/kC1oZj0nOsc?si=Hf6vcI4wTj4osW1L 
+
+<br><br>
+
+Ik ga nu zelf ook nog uitleggen over de functies en navigatie.
+
+<br><br>
 
 De "Roadmap app" werkt als een soort kalender voor de tijds duur van projecten.
 
