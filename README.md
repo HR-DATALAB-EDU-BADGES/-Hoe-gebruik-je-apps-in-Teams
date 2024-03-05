@@ -13,7 +13,16 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 ## Inleiding 
 
-### Wat kunnen deze apps en waarom zou je ze gebruiken?
+### Waarom deze apps installeren?
+
+<br><br>
+
+### Project app:
+De "Projecten" / "Project" app is bedoelt voor team beheerring je kan hier makkelijk taken aan maken, deze taken verdelen, en de progressie overzichtelijk kunnen bekijken
+
+
+### Roadmap app:
+De 
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -161,6 +170,9 @@ Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt
 
 
 ## Hoofdstuk 4 basis: Roadmap app installeren:
+
+<br><br>
+
 Ga naar het juiste kanaal toe en druk op de drie puntjes icoon rechts van het kanaal, en selecteer "generaal" / "general"
 
 ![alt text](image-3.png)
@@ -185,9 +197,17 @@ Scroll nu naar beneden tot "Gebouwd door Microsoft" / "Build by Microsoft" en kl
 
 <br><br><br><br>
 
-En zoals bij de vorige app doe het zelfde voor de Roadmap app:
+In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij Roadmap app:
 
 ![alt text](image-9.png)
+
+<br><br><br><br>
+
+Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gekozen kanaal in dit geval "HR Datalab Healthcare" 
+
+Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal:
+
+![alt text](image-7.png)
 
 <br><br><br><br>
 
@@ -213,8 +233,6 @@ Je kan deze video bekijken op YouTube over de "Projecten app" / "Project app", m
 <br><br>
 
 Ik ga nu zelf ook nog uitleggen over de functies en navigatie.
-
-<br><br>
 
 Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" kan je drie opties bovenaan zien: 
 
