@@ -27,13 +27,19 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 [Hoofdstuk 1 basis: Teams installeren](#hoofdstuk-1-basis-teams-installeren)
 
-[Hoofdstuk 2 basis: Apps binnen Teams installeren](#hoofdstuk-2-basis-apps-binnen-teams-installeren)
+[Hoofdstuk 2 basis: Teams configure](#hoofdstuk-2-basis-teams-configure)
 
-[Hoofdstuk 3 basis: Leren werken met de Project applicatie](#hoofdstuk-3-basis-leren-werken-met-de-project-applicatie)
+[Hoofdstuk 3 basis: Project app installeren](#hoofdstuk-3-basis-project-app-installeren)
 
-[Hoofdstuk 4 basis: Leren werken met de Roadmap applicatie](#hoofdstuk-4-basis-leren-werken-met-de-roadmap-applicatie)
+[Hoofdstuk 4 basis: Roadmap app installeren](#hoofdstuk-4-basis-roadmap-app-installeren)
+
+[Hoofdstuk 5 basis: Leren werken met de project applicatie](#hoofdstuk-5-basis-leren-werken-met-de-project-applicatie)
+
+[Hoofdstuk 6 basis: Leren werken met de Roadmap applicatie](#hoofdstuk-6-basis-leren-werken-met-de-roadmap-applicatie)
 
 <br><br><br><br><br><br><br><br><br><br>
+
+
 
 
 
@@ -53,7 +59,6 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 <br><br><br><br>
 
 
-
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -61,10 +66,17 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 
 
-## Hoofdstuk 2 basis: Apps binnen Teams installeren:
+
+
+
+
+
+
+## Hoofdstuk 2 basis: Teams configure:
+
 <br><br>
 
-Als gesloten open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
+Als Teams gesloten is open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
 
 ![alt text](image-1.png)
 
@@ -76,11 +88,29 @@ Maak zeker dat je juist ingelogd bent rechtsboven in de app:
 
 <br><br><br><br>
 
-Als het al geïnstalleerd is op de juiste kanaal kan je de apps zien bij "Generaal" / "General" en dan rechts boven.
+En dat je toegang hebt tot de juiste kanalen links boven:
+
+![alt text](image-21.png)
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+## Hoofdstuk 3 basis: Project app installeren:
+
+<br><br>
+
+Als de Project app al geïnstalleerd is op de juiste kanaal kan je de app zien bij "Generaal" / "General" en dan rechts boven.
 
 Als er te veel opties/apps boven aan staan krijg je een plus icoon rechts boven, klik hier op om alle overige opties/apps te zien in dit geval zie je de "Roadmap"
 
-Als jij de apps "project Algemeen" en "Roadmap algemeen" niet ziet staan volg dan de rest van stap twee, anders skip naar de stap drie.
+Als jij de apps "project Algemeen" en "Roadmap algemeen" niet ziet staan volg dan de rest van stap drie, anders skip naar de stap vijf.
 
 ![alt text](image-11.png)
 
@@ -116,9 +146,35 @@ Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt
 
 ![alt text](image-7.png)
 
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+## Hoofdstuk 4 basis: Roadmap app installeren:
+Ga naar het juiste kanaal toe en druk op de drie puntjes icoon rechts van het kanaal, en selecteer "generaal" / "general"
+
+![alt text](image-3.png)
+
 <br><br><br><br>
 
-Terug bij "Meer apps downloaden" / "Get more apps" scrollen we nu naar beneden tot "Gebouwd door Microsoft" / "Build by Microsoft" en klik op "zie alles" / "see all"
+In de nieuwe tab sta je automatisch op "Deelnemers" / "Members" selecteer rechts boven aan "Apps"
+
+![alt text](image-4.png)
+
+<br><br><br><br>
+
+In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan:
+
+![alt text](image-5.png)
+
+<br><br><br><br>
+
+Scroll nu naar beneden tot "Gebouwd door Microsoft" / "Build by Microsoft" en klik op "zie alles" / "see all"
 
 ![alt text](image-8.png)
 
@@ -141,7 +197,9 @@ Om nu terug te gaan naar "generaal" / "general" kan je links boven aan op de pij
 
 
 
-## Hoofdstuk 3 basis: Leren werken met de project applicatie:
+
+
+## Hoofdstuk 5 basis: Leren werken met de project applicatie:
 
 <br><br>
 
@@ -173,7 +231,9 @@ Hiervan is "Rooster" / "Grid" al open.
 
 
 
-### Hoofdstuk 3.1 basis: Het "Rooster" / "Grid" leren:
+
+
+### Hoofdstuk 5.1 basis: Het "Rooster" / "Grid" leren:
 
 <br><br>
 
@@ -231,7 +291,9 @@ Veder moet je alleen de naam alvast invullen om te zorgen dat de nieuwe project 
 
 
 
-### Hoofdstuk 3.2 basis: Het "Board" leren:
+
+
+### Hoofdstuk 5.2 basis: Het "Board" leren:
 
 <br><br>
 
@@ -265,7 +327,9 @@ Bij beide moet je een naam toevoegen om projecten/taken/emmers te kunnen aanmake
 
 
 
-### Hoofdstuk 3.3 basis: De "Grafieken" / "Charts" leren:
+
+
+### Hoofdstuk 5.3 basis: De "Grafieken" / "Charts" leren:
 
 <br><br>
 
@@ -285,7 +349,9 @@ Dit onderdeel heeft geen input dus je kan er alleen naar kijken voor feedback.
 
 
 
-## Hoofdstuk 4 basis: Leren werken met de Roadmap applicatie:
+
+
+## Hoofdstuk 6 basis: Leren werken met de Roadmap applicatie:
 
 <br><br>
 
