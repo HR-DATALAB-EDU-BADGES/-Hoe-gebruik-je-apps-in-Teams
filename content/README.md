@@ -13,7 +13,14 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 ## Inleiding 
 
-### Wat kunnen deze apps en waarom zou je ze gebruiken?
+### Waarom deze apps installeren?
+
+### Project app:
+De "Projecten app" / "Project app" is bedoelt voor team beheerring je kan hier makkelijk taken aan maken, deze taken verdelen, en de progressie overzichtelijk kunnen bekijken.
+
+
+### Roadmap app:
+De "Stappenplan app" / "Roadmap app" is bedoelt voor het weergeven van een duidelijk beeld voor welke projecten wanneer bezig zijn en welke projecten overlappen qua tijd in de vorm van datums.
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -27,13 +34,24 @@ Hier word uitgelegd hoe je apps kan installeren in Teams kanalen.
 
 [Hoofdstuk 1 basis: Teams installeren](#hoofdstuk-1-basis-teams-installeren)
 
-[Hoofdstuk 2 basis: Apps binnen Teams installeren](#hoofdstuk-2-basis-apps-binnen-teams-installeren)
+[Hoofdstuk 2 basis: Teams configure](#hoofdstuk-2-basis-teams-configure)
 
-[Hoofdstuk 3 basis: Leren werken met de Project applicatie](#hoofdstuk-3-basis-leren-werken-met-de-project-applicatie)
+[Hoofdstuk 3 basis: Project app installeren](#hoofdstuk-3-basis-project-app-installeren)
 
-[Hoofdstuk 4 basis: Leren werken met de Roadmap applicatie](#hoofdstuk-4-basis-leren-werken-met-de-roadmap-applicatie)
+[Hoofdstuk 4 basis: Roadmap app installeren](#hoofdstuk-4-basis-roadmap-app-installeren)
+
+[Hoofdstuk 5 basis: Leren werken met de project applicatie](#hoofdstuk-5-basis-leren-werken-met-de-project-applicatie)
+- [Hoofdstuk 5.1 basis: Het "Rooster" / "Grid" leren](#hoofdstuk-51-basis-het-rooster--grid-leren)
+- [Hoofdstuk 5.2 basis: Het "Board" leren](#hoofdstuk-52-basis-het-board-leren)
+- [Hoofdstuk 5.3 basis: De "Grafieken" / "Charts" leren](#hoofdstuk-53-basis-de-grafieken--charts-leren)
+
+<br>
+
+[Hoofdstuk 6 basis: Leren werken met de Roadmap applicatie](#hoofdstuk-6-basis-leren-werken-met-de-roadmap-applicatie)
 
 <br><br><br><br><br><br><br><br><br><br>
+
+
 
 
 
@@ -52,7 +70,31 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 <br><br><br><br>
 
+Bij de nieuwe tab die opent krijg je twee opties kies rechts onder "Teams for work or school" klik op "Download the new Teams app" en zodra het vraagt welke versie ga voor (64-bit)
 
+![alt text](image-23.png)
+
+<br><br><br><br>
+
+Zodra de set-up geïnstalleerd is kan je onderaan op je "Bestandsverkenner" / "File explorer" klikken:
+
+![alt text](image-24.png)
+
+<br><br><br><br>
+
+Nu dat deze open is kan je op downloads klikken:
+
+![alt text](image-25.png)
+
+<br><br><br><br>
+
+En nu double klik je op de set-up file bovenaan bij je downloads:
+
+![alt text](image-26.png)
+
+<br><br><br><br>
+
+Veder volg de stappen zoals aangeven door Teams en ga met default settings.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -61,12 +103,25 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 
 
-## Hoofdstuk 2 basis: Apps binnen Teams installeren:
+
+
+
+
+
+
+## Hoofdstuk 2 basis: Teams configure:
+
 <br><br>
 
-Als gesloten open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
+Als Teams gesloten is open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
 
 ![alt text](image-1.png)
+
+<br><br><br><br>
+
+Als je Account er niet niet boven staat wanneer je de app opent moet je die ben
+
+![alt text](image-22.png)
 
 <br><br><br><br>
 
@@ -76,11 +131,29 @@ Maak zeker dat je juist ingelogd bent rechtsboven in de app:
 
 <br><br><br><br>
 
-Als het al geïnstalleerd is op de juiste kanaal kan je de apps zien bij "Generaal" / "General" en dan rechts boven.
+Zorg dat je toegang hebt tot de juiste kanalen links boven:
+
+![alt text](image-21.png)
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+## Hoofdstuk 3 basis: Project app installeren:
+
+<br><br>
+
+Als de Project app al geïnstalleerd is op de juiste kanaal kan je de app zien bij "Generaal" / "General" en dan rechts boven.
 
 Als er te veel opties/apps boven aan staan krijg je een plus icoon rechts boven, klik hier op om alle overige opties/apps te zien in dit geval zie je de "Roadmap"
 
-Als jij de apps "project Algemeen" en "Roadmap algemeen" niet ziet staan volg dan de rest van stap twee, anders skip naar de stap drie.
+Als jij de apps "project Algemeen" en "Roadmap algemeen" niet ziet staan volg dan de rest van stap drie, anders skip naar de stap vijf.
 
 ![alt text](image-11.png)
 
@@ -116,17 +189,54 @@ Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt
 
 ![alt text](image-7.png)
 
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+## Hoofdstuk 4 basis: Roadmap app installeren:
+
+<br><br>
+
+Ga naar het juiste kanaal toe en druk op de drie puntjes icoon rechts van het kanaal, en selecteer "generaal" / "general"
+
+![alt text](image-3.png)
+
 <br><br><br><br>
 
-Terug bij "Meer apps downloaden" / "Get more apps" scrollen we nu naar beneden tot "Gebouwd door Microsoft" / "Build by Microsoft" en klik op "zie alles" / "see all"
+In de nieuwe tab sta je automatisch op "Deelnemers" / "Members" selecteer rechts boven aan "Apps"
+
+![alt text](image-4.png)
+
+<br><br><br><br>
+
+In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan:
+
+![alt text](image-5.png)
+
+<br><br><br><br>
+
+Scroll nu naar beneden tot "Gebouwd door Microsoft" / "Build by Microsoft" en klik op "zie alles" / "see all"
 
 ![alt text](image-8.png)
 
 <br><br><br><br>
 
-En zoals bij de vorige app doe het zelfde voor de Roadmap app:
+In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij Roadmap app:
 
 ![alt text](image-9.png)
+
+<br><br><br><br>
+
+Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gekozen kanaal in dit geval "HR Datalab Healthcare" 
+
+Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal:
+
+![alt text](image-7.png)
 
 <br><br><br><br>
 
@@ -141,7 +251,9 @@ Om nu terug te gaan naar "generaal" / "general" kan je links boven aan op de pij
 
 
 
-## Hoofdstuk 3 basis: Leren werken met de project applicatie:
+
+
+## Hoofdstuk 5 basis: Leren werken met de project applicatie:
 
 <br><br>
 
@@ -150,8 +262,6 @@ Je kan deze video bekijken op YouTube over de "Projecten app" / "Project app", m
 <br><br>
 
 Ik ga nu zelf ook nog uitleggen over de functies en navigatie.
-
-<br><br>
 
 Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" kan je drie opties bovenaan zien: 
 
@@ -173,7 +283,9 @@ Hiervan is "Rooster" / "Grid" al open.
 
 
 
-### Hoofdstuk 3.1 basis: Het "Rooster" / "Grid" leren:
+
+
+### Hoofdstuk 5.1 basis: Het "Rooster" / "Grid" leren:
 
 <br><br>
 
@@ -231,7 +343,9 @@ Veder moet je alleen de naam alvast invullen om te zorgen dat de nieuwe project 
 
 
 
-### Hoofdstuk 3.2 basis: Het "Board" leren:
+
+
+### Hoofdstuk 5.2 basis: Het "Board" leren:
 
 <br><br>
 
@@ -265,7 +379,9 @@ Bij beide moet je een naam toevoegen om projecten/taken/emmers te kunnen aanmake
 
 
 
-### Hoofdstuk 3.3 basis: De "Grafieken" / "Charts" leren:
+
+
+### Hoofdstuk 5.3 basis: De "Grafieken" / "Charts" leren:
 
 <br><br>
 
@@ -285,17 +401,17 @@ Dit onderdeel heeft geen input dus je kan er alleen naar kijken voor feedback.
 
 
 
-## Hoofdstuk 4 basis: Leren werken met de Roadmap applicatie:
+
+
+## Hoofdstuk 6 basis: Leren werken met de Roadmap applicatie:
 
 <br><br>
 
-Je kan deze video bekijken op YouTube over de  "Stappenplan app" / "roadmap app" , maar de video is wel Engels: https://youtu.be/kC1oZj0nOsc?si=Hf6vcI4wTj4osW1L 
+Je kan deze video bekijken op YouTube over de  "Stappenplan app" / "Roadmap app", maar de video is wel Engels: https://youtu.be/kC1oZj0nOsc?si=Hf6vcI4wTj4osW1L 
 
 <br><br>
 
 Ik ga nu zelf ook nog uitleggen over de functies en navigatie.
-
-<br><br>
 
 De "Roadmap app" werkt als een soort kalender voor de tijds duur van projecten.
 
@@ -303,7 +419,7 @@ De horizontale zijde weergeeft de tijds duur in dagen van links naar rechts.
 
 De verticale kant weergeeft het aantal projecten.
 
-De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke projecten wanneer bezig zijn en welke projecten overlappen in tijd.
+De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke projecten wanneer bezig zijn en welke projecten overlappen qua tijd in de vorm van datums.
 
 Ik kan er nu persoonlijk niet in werken omdat ik geen toegang heb, maar je kan zien dat je links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
 
