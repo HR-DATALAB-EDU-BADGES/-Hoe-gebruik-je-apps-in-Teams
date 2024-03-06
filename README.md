@@ -72,25 +72,25 @@ De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEA
 
 Bij de nieuwe tab die opent krijg je twee opties kies rechts onder "Teams for work or school" klik op "Download the new Teams app" en zodra het vraagt welke versie ga voor (64-bit)
 
-![alt text](image-23.png)
+![alt text](images/image-23.png)
 
 <br><br><br><br>
 
 Zodra de set-up geïnstalleerd is kan je onderaan op je "Bestandsverkenner" / "File explorer" klikken:
 
-![alt text](image-24.png)
+![alt text](images/image-24.png)
 
 <br><br><br><br>
 
 Nu dat deze open is kan je op downloads klikken:
 
-![alt text](image-25.png)
+![alt text](images/image-25.png)
 
 <br><br><br><br>
 
 En nu double klik je op de set-up file bovenaan bij je downloads:
 
-![alt text](image-26.png)
+![alt text](images/image-26.png)
 
 <br><br><br><br>
 
@@ -115,25 +115,25 @@ Veder volg de stappen zoals aangeven door Teams en ga met default settings.
 
 Als Teams gesloten is open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 <br><br><br><br>
 
 Als je Account er niet niet boven staat wanneer je de app opent moet je die ben
 
-![alt text](image-22.png)
+![alt text](images/image-22.png)
 
 <br><br><br><br>
 
 Maak zeker dat je juist ingelogd bent rechtsboven in de app:
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 <br><br><br><br>
 
 Zorg dat je toegang hebt tot de juiste kanalen links boven:
 
-![alt text](image-21.png)
+![alt text](images/image-21.png)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -155,31 +155,31 @@ Als er te veel opties/apps boven aan staan krijg je een plus icoon rechts boven,
 
 Als jij de apps "project Algemeen" en "Roadmap algemeen" niet ziet staan volg dan de rest van stap drie, anders skip naar de stap vijf.
 
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 
 <br><br><br><br>
 
 Als dat gedaan is ga naar het juiste kanaal toe en druk op de drie puntjes icoon rechts van het kanaal, en selecteer "generaal" / "general"
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 <br><br><br><br>
 
 In de nieuwe tab sta je automatisch op "Deelnemers" / "Members" selecteer rechts boven aan "Apps"
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 <br><br><br><br>
 
 In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan:
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 <br><br><br><br>
 
 In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij project:
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 <br><br><br><br>
 
@@ -187,7 +187,7 @@ Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gek
 
 Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal:
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -204,31 +204,31 @@ Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt
 
 Ga naar het juiste kanaal toe en druk op de drie puntjes icoon rechts van het kanaal, en selecteer "generaal" / "general"
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 <br><br><br><br>
 
 In de nieuwe tab sta je automatisch op "Deelnemers" / "Members" selecteer rechts boven aan "Apps"
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 <br><br><br><br>
 
 In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan:
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 <br><br><br><br>
 
 Scroll nu naar beneden tot "Gebouwd door Microsoft" / "Build by Microsoft" en klik op "zie alles" / "see all"
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 <br><br><br><br>
 
 In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij Roadmap app:
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 <br><br><br><br>
 
@@ -236,13 +236,13 @@ Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gek
 
 Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal:
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 <br><br><br><br>
 
 Om nu terug te gaan naar "generaal" / "general" kan je links boven aan op de pijl naar links klikken en vervolgens linksboven op "generaal" / "general"
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -273,7 +273,7 @@ Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" ka
 
 Hiervan is "Rooster" / "Grid" al open.
 
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 <br><br><br><br>
 
@@ -303,7 +303,7 @@ Dat de projecten verticaal Genummerd zijn van laag naar hoog,
 
 En dat je met klikken ze bij de circle kan afvinken als ze klaar zijn:
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
 <br><br><br><br>
 
@@ -313,7 +313,7 @@ Bij "Korte kijk" / "Short look" kan je zien of er bestanden zijn toegevoegd aan 
 
 Je kan bij Toegewezen" / "assigned" kijken wie welke taak gegeven is, en als je over het project zweeft met je muis zie je een persoon icoon waar je kan op klikken om mensen zelf toetenvoegen. 
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
 <br><br><br><br>
 
@@ -325,7 +325,7 @@ de start datum kan bepalen,
 
 en de datum wanneer het klaar was kan invullen.
 
-![alt text](image-15.png)
+![alt text](images/image-15.png)
 
 <br><br><br><br>
 
@@ -333,7 +333,7 @@ En links onderaan kan je projecten aan maken door op de plus icoon of de zin "Ni
 
 Veder moet je alleen de naam alvast invullen om te zorgen dat de nieuwe project blijft staan.
 
-![alt text](image-16.png)
+![alt text](images/image-16.png)
 
 <br><br><br><br>
 
@@ -369,7 +369,7 @@ Maar je kan ook emmers / buckets toevoegen om meer te kunnen sorteren dus de emm
 
 Bij beide moet je een naam toevoegen om projecten/taken/emmers te kunnen aanmaken.
 
-![alt text](image-17.png)
+![alt text](images/image-17.png)
 
 <br><br><br><br>
 
@@ -391,7 +391,7 @@ Gebaseerd op de progressie van Het "Rooster" / "Grid" kan je hier de visuals zie
 
 Dit onderdeel heeft geen input dus je kan er alleen naar kijken voor feedback.
 
-![alt text](image-18.png)
+![alt text](images/image-18.png)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -423,10 +423,10 @@ De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke
 
 Ik kan er nu persoonlijk niet in werken omdat ik geen toegang heb, maar je kan zien dat je links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
 
-![alt text](image-19.png)
+![alt text](images/image-19.png)
 
 <br><br><br><br>
 
 Hier is een voorbeeld van hoe een Roadmap er uit kan zien als hij af is: 
 
-![alt text](image-20.png)
+![alt text](images/image-20.png)
