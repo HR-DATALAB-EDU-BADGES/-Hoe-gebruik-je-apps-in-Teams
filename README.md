@@ -456,6 +456,6 @@ Hier is een voorbeeld van hoe een Roadmap er uit kan zien als hij af is:
 
 <br><br><br><br>
 
-in jouw Teams kanaal selecteer "voeg een tab toe" / "add a tab"
+In jouw Teams kanaal selecteer "voeg een tab toe" / "add a tab"
 
 ![alt text](images/image-27.png)
