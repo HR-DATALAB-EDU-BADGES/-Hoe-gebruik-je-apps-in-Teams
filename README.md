@@ -30,6 +30,29 @@ De "Stappenplan app" / "Roadmap app" is bedoelt voor het weergeven van een duide
 
 
 
+
+
+
+
+
+## Sources:
+
+Hoofdstuk 6 basis: Leren werken met de Roadmap applicatie is geïnspireerd door de volgende links:
+
+https://support.microsoft.com/en-us/office/use-the-project-or-roadmap-app-in-teams-2dc584e6-2f6c-4e2d-9008-0b3f6845eb52#bkmk_addaprojectorroadmaptabtoateamschannel
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
 ## Inhoudsopgave
 
 [Hoofdstuk 1 basis: Teams installeren](#hoofdstuk-1-basis-teams-installeren)
@@ -421,7 +444,7 @@ De verticale kant weergeeft het aantal projecten.
 
 De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke projecten wanneer bezig zijn en welke projecten overlappen qua tijd in de vorm van datums.
 
-Ik kan er nu persoonlijk niet in werken omdat ik geen toegang heb, maar je kan zien dat je links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
+Je kan zien dat je links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
 
 ![alt text](images/image-19.png)
 
@@ -430,3 +453,9 @@ Ik kan er nu persoonlijk niet in werken omdat ik geen toegang heb, maar je kan z
 Hier is een voorbeeld van hoe een Roadmap er uit kan zien als hij af is: 
 
 ![alt text](images/image-20.png)
+
+<br><br><br><br>
+
+in jouw Teams kanaal selecteer "voeg een tab toe" / "add a tab"
+
+![alt text](images/image-27.png)
