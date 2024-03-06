@@ -66,7 +66,7 @@ Volg de link en click op "Download de app voor desktop" / "Download app for desk
 
 De link: https://www.microsoft.com/en-us/microsoft-teams/download-app?ocid=ORSEARCH_Bing&lc=1033
 
-![images](image.png)
+![alt text](images/image.png)
 
 <br><br><br><br>
 
