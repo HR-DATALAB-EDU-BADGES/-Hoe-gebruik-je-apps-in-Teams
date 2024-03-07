@@ -41,6 +41,8 @@ Hoofdstuk 6 basis: Leren werken met de Roadmap applicatie is geïnspireerd door 
 
 https://support.microsoft.com/en-us/office/use-the-project-or-roadmap-app-in-teams-2dc584e6-2f6c-4e2d-9008-0b3f6845eb52#bkmk_addaprojectorroadmaptabtoateamschannel
 
+https://support.microsoft.com/en-us/office/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -99,19 +101,19 @@ Bij de nieuwe tab die opent krijg je twee opties kies rechts onder "Teams for wo
 
 <br><br><br><br>
 
-Zodra de set-up geïnstalleerd is kan je onderaan op je "Bestandsverkenner" / "File explorer" klikken:
+Zodra de set-up geïnstalleerd is kan je onderaan op je "Bestandsverkenner" / "File explorer" klikken.
 
 ![alt text](images/image-24.png)
 
 <br><br><br><br>
 
-Nu dat deze open is kan je op downloads klikken:
+Nu dat deze open is kan je op downloads klikken.
 
 ![alt text](images/image-25.png)
 
 <br><br><br><br>
 
-En nu double klik je op de set-up file bovenaan bij je downloads:
+En nu double klik je op de set-up file bovenaan bij je downloads.
 
 ![alt text](images/image-26.png)
 
@@ -136,25 +138,25 @@ Veder volg de stappen zoals aangeven door Teams en ga met default settings.
 
 <br><br>
 
-Als Teams gesloten is open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze:
+Als Teams gesloten is open de app via jouw desktop snelkoppeling of anders type "Microsoft Teams" in je zoekbalk links onderaan en dubbel klik de bovenste keuze.
 
 ![alt text](images/image-1.png)
 
 <br><br><br><br>
 
-Als je Account er niet niet boven staat wanneer je de app opent moet je die ben
+Als je Account er niet niet boven staat wanneer je de app opent moet je die ben.
 
 ![alt text](images/image-22.png)
 
 <br><br><br><br>
 
-Maak zeker dat je juist ingelogd bent rechtsboven in de app:
+Maak zeker dat je juist ingelogd bent rechtsboven in de app.
 
 ![alt text](images/image-2.png)
 
 <br><br><br><br>
 
-Zorg dat je toegang hebt tot de juiste kanalen links boven:
+Zorg dat je toegang hebt tot de juiste kanalen links boven.
 
 ![alt text](images/image-21.png)
 
@@ -194,13 +196,13 @@ In de nieuwe tab sta je automatisch op "Deelnemers" / "Members" selecteer rechts
 
 <br><br><br><br>
 
-In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan:
+In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan.
 
 ![alt text](images/image-5.png)
 
 <br><br><br><br>
 
-In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij project:
+In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij project.
 
 ![alt text](images/image-6.png)
 
@@ -208,7 +210,7 @@ In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij project:
 
 Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gekozen kanaal in dit geval "HR Datalab Healthcare" 
 
-Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal:
+Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal.
 
 ![alt text](images/image-7.png)
 
@@ -237,7 +239,7 @@ In de nieuwe tab sta je automatisch op "Deelnemers" / "Members" selecteer rechts
 
 <br><br><br><br>
 
-In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan:
+In de nieuwe tab klik op "Meer apps downloaden" / "Get more apps" links bovenaan.
 
 ![alt text](images/image-5.png)
 
@@ -249,7 +251,7 @@ Scroll nu naar beneden tot "Gebouwd door Microsoft" / "Build by Microsoft" en kl
 
 <br><br><br><br>
 
-In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij Roadmap app:
+In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij Roadmap app.
 
 ![alt text](images/image-9.png)
 
@@ -257,7 +259,7 @@ In de nieuwe tab scroll naar beneden en klik op "Voeg toe" / "Add" bij Roadmap a
 
 Klik nu op "Toevoegen aan een team" / "Add to a team" en type de naam van je gekozen kanaal in dit geval "HR Datalab Healthcare" 
 
-Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal:
+Als hij er niet bijstaat dan is het al geïnstalleerd op dit kanaal, of jij hebt geen toegang om deze verandering aan te maken op dat kanaal.
 
 ![alt text](images/image-7.png)
 
@@ -286,7 +288,7 @@ Je kan deze video bekijken op YouTube over de "Projecten app" / "Project app", m
 
 Ik ga nu zelf ook nog uitleggen over de functies en navigatie.
 
-Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" kan je drie opties bovenaan zien: 
+Als je de "Projecten app" / "Project app" tab opent in 'generaal" / "general" kan je drie opties bovenaan zien.
 
 "Rooster" / "Grid",
 
@@ -324,7 +326,7 @@ Je ziet hier dat de projecten namen hebben,
 
 Dat de projecten verticaal Genummerd zijn van laag naar hoog,
 
-En dat je met klikken ze bij de circle kan afvinken als ze klaar zijn:
+En dat je met klikken ze bij de circle kan afvinken als ze klaar zijn.
 
 ![alt text](images/image-13.png)
 
@@ -444,18 +446,41 @@ De verticale kant weergeeft het aantal projecten.
 
 De verticale en horizontale kanten samen weergeven een duidelijk beeld van welke projecten wanneer bezig zijn en welke projecten overlappen qua tijd in de vorm van datums.
 
-Je kan zien dat je links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
-
-![alt text](images/image-19.png)
-
 <br><br><br><br>
 
-Hier is een voorbeeld van hoe een Roadmap er uit kan zien als hij af is: 
+Hier is een voorbeeld van hoe een Roadmap er uit kan zien als hij af is.
 
 ![alt text](images/image-20.png)
 
 <br><br><br><br>
 
-In jouw Teams kanaal selecteer "voeg een tab toe" / "add a tab"
+In jouw Teams kanaal klik de plus icoon en selecteer "voeg een tab toe" / "add a tab"
 
 ![alt text](images/image-27.png)
+
+<br><br><br><br>
+
+In de nieuwe tab selecteer Roadmap je kan eventueel dit uit typen in de zoekbalk rechts bovenaan.
+
+![alt text](images/image-28.png)
+
+<br><br><br><br>
+
+In de nieuwe tab kies "Nieuwe Stappenplan maken" / "Create new Roadmap" om een nieuwe Stappenplan / Roadmap te maken.
+
+![alt text](images/image-29.png)
+
+<br><br><br><br>
+
+Je kan nu een naam invullen voor jouw Stappenplan / Roadmap en veder gaan.
+
+![alt text](images/image-30.png)
+
+<br><br><br><br>
+
+Als je nu naar het kanaal gaat waar je de Roadmap toegevoegd hebt kan je nu zien dat jouw Roadmap naam er boven bij staat.
+
+Je kan nu links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add key date" kan toevoegen.
+
+![alt text](images/image-19.png)
+
