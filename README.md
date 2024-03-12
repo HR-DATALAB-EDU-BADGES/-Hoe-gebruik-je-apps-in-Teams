@@ -484,3 +484,6 @@ Je kan nu links boven "Rijen" / "rows" en "Belangrijke datum toevoegen" / "add k
 
 ![alt text](images/image-19.png)
 
+<br><br><br><br>
+
+Kijk de video om veder te gaan: https://www.microsoft.com/en-us/videoplayer/embed/RE2McvC?pid=ocpVideo1&postJsllMsg=true&maskLevel=20&reporting=true&market=en-us 
